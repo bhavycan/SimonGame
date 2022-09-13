@@ -12,7 +12,7 @@ Simon will once again add one and so on.<br>
 
 If you fail to repeat a sequence exactly, Simon responds with a "RAZZ" sound. This means you've lost, and the sequence of signals ends.<br>
 
-# Priview
+# Preview
 <br>
 <br>
 
