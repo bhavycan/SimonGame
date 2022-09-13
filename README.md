@@ -15,7 +15,9 @@ If you fail to repeat a sequence exactly, Simon responds with a "RAZZ" sound. Th
 # Priview
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/94931828/189793719-0310f632-cfd6-46cb-abc2-2ec9b13bed21.png)
+
+![image](https://user-images.githubusercontent.com/94931828/189793777-51eafa09-03d3-4752-81af-da89a328d8e9.png)
+
 
 
 # Link
