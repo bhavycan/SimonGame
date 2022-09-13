@@ -1,5 +1,5 @@
 # SimonGame
-<br>
+
 The old and wounderful game that make your brain to be worked harder! You can try it now!
 
 # Rules
