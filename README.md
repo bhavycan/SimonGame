@@ -1,6 +1,11 @@
 # SimonGame
 The old and wounderful game that make your brain to be worked harder! You can try it now!
 
+<br>
+
+![image](https://user-images.githubusercontent.com/94931828/190246236-8210d104-197a-423e-a8cf-fdbbf90a20a1.png)
+
+
 # Rules
 
 Press  Any button. Simon will give the first signal. Repeat the signal by pressing the same color lens.<br>
